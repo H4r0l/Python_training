@@ -2,7 +2,6 @@
 
 #Create a timing decorator @timing that can be applied to functions to measure and print the time taken for the function to execute. Additionally, implement a function that accepts a list of functions and runs each function, applying the @timing decorator to them. This way, you can easily measure the execution time of multiple functions.
 #
-
 #"Your tasks:
 
 #Implement the @timing decorator.

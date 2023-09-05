@@ -13,4 +13,13 @@ def sort_names(names):
 
 print(sort_names(["apple", "banana", "cherry", "orange", "kiwi"]))
 
+def sorting(numbers):
+    return sorted(numbers)
 
+print(sorting([1,2,3,4,5]))
+
+names = ["John Smith", "Alice Johnson", "Bob Adams", "Eva Williams"]
+
+last_names = list(map(lambda name: name.split()[-1], ))
+
+print(last_names)
