@@ -15,6 +15,9 @@ class TestSum(unittest.TestCase):
     def test_divide_list(self):
         self.assertAlmostEqual((self.list[0]/ self.list[1]), 1)
 
+    def tearDown(self):
+        del(self.list)
+
 
 
 if __name__ == '__main__':
