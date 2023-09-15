@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Object 1",
-        "useful": false
+        "useful": true
     },
     {
         "id": 2,
@@ -12,11 +12,11 @@
     {
         "id": 3,
         "name": "Object 3",
-        "useful": false
+        "useful": true
     },
     {
         "id": 4,
         "name": "Object 4",
-        "useful": false
+        "useful": true
     }
 ]
