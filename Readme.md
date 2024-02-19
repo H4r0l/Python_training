@@ -17,5 +17,6 @@ Each exercise will have its own directory, containing the exercise description a
 5. Test your solution and ensure it works.
 
 6. Commit and push your changes to the repository.
+* _Not necessary if you do not intend to do it progressively_
 
 Happy coding!
