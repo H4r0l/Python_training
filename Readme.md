@@ -8,15 +8,13 @@ Each exercise will have its own directory, containing the exercise description a
 
 1. Clone this repository to your local machine.
 
-2. Navigate to an exercise directory.
+2. Read the exercise description in the comments of the file.
 
-3. Read the exercise description in the comments of the file.
+3. Solve the exercise by creating/editing Python files.
 
-4. Solve the exercise by creating/editing Python files.
+4. Test your solution and ensure it works.
 
-5. Test your solution and ensure it works.
-
-6. Commit and push your changes to the repository.
+5. Commit and push your changes to the repository.
 * _Not necessary if you do not intend to do it progressively_
 
 Happy coding!
